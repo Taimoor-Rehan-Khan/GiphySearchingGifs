@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "QECm2AogsK8Fetw9YwaT4bqrSVWYZX4I"
+API_KEY = "ABCD"
 
 endpoint =  "https://api.giphy.com/v1/gifs/trending"
 
